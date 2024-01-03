@@ -1,4 +1,4 @@
-## Hi there! I'm Dimo 👋
+## I'm Dimo from StaraZagora-Bulgaria. I solve basic introductory tasks in the CS language. Walking the path of a C# web developer.
 
 ![visitors](https://komarev.com/ghpvc/?username=kalintsenkov)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dimo.slavov/)
