@@ -1,4 +1,9 @@
 ## I'm Dimo from StaraZagora-Bulgaria. I solve basic introductory tasks in the CS language. Walking the path of a C# web developer.
+- 🌱 I’m currently learning **fundamentals softuni curse c#**
+
+- 📫 How to reach me **Dimo_Slavov@gmail.com**
+
+- ⚡ Fun fact **I like to let loose when i play league of legends**
 
 ![visitors](https://komarev.com/ghpvc/?username=DimoSlavov)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dimo.slavov/)
