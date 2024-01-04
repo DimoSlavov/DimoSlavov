@@ -1,4 +1,9 @@
 ## I'm Dimo from StaraZagora-Bulgaria. I solve basic introductory tasks in the CS language. Walking the path of a C# web developer.
+<h3 align="center">A passionate Full-Stack .NET developer with an affinity in Back-End Development...</h3>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5MDhiODJkYjY3NzQ4ZDQ4ZjhhNDM3MzBkZWE3MjAxY2Y4Mjk4ZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding..."  width="350" height="200" />
+</div>
 - 🌱 I’m currently learning **fundamentals softuni curse c#**
 
 - 📫 How to reach me **Dimo_Slavov87@gmail.com**
@@ -7,7 +12,6 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=DimoSlavov)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dimo.slavov/)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]() 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DimoSlavov)
 
